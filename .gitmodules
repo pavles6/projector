@@ -1,0 +1,9 @@
+[submodule "projector-ts"]
+	path = projector-ts
+	url = https://github.com/pavles6/projector-ts
+[submodule "projector-go"]
+	path = projector-go
+	url = https://github.com/pavles6/projector-go
+[submodule "projector-rust"]
+	path = projector-rust
+	url = https://github.com/pavles6/projector-rust
